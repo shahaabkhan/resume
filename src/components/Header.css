@@ -1,0 +1,17 @@
+/* Make dropdown behave like nav-pills */
+.nav-pills .dropdown-toggle.show,
+.nav-pills .dropdown-toggle:focus,
+.nav-pills .dropdown-toggle:hover {
+  background-color: #d3dce9; /* Bootstrap primary */
+  color: white;
+}
+.head{
+    /* background-color: rgb(231, 198, 198) */
+    background-color: black;
+}
+.footer{
+    background-color: rgb(109, 102, 102);
+}
+#link{
+  text-decoration: none;
+}
